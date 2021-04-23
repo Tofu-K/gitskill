@@ -1,3 +1,2 @@
 # it is a revert test
 # ready to write a bug
-# I am a bug
